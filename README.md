@@ -57,7 +57,7 @@ customer-shopping-behavior-analysis/
 
 ---
 
-## 🧹Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 Performed in Python (`decoding_shoppers_analysis.ipynb`):
 
