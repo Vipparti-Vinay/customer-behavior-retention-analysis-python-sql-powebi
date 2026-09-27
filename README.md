@@ -8,8 +8,6 @@
 
 This project analyzes 3,900 retail transactions to understand customer shopping behavior across demographics, product categories, discounts, and sales channels. It follows a complete data analyst workflow: data cleaning and feature engineering in Python, business-question analysis in SQL, and an interactive, drill-through-enabled dashboard in Power BI.
 
-The project is based on Amlan Mohanty's Customer Behavior Data Analyst Portfolio Project tutorial, extended with additional EDA steps, 5 extra SQL business questions, and a fully redesigned, custom-themed 2-page dashboard including a drill-through "Deep Dive" page.
-
 ---
 
 ## Problem Statement
@@ -115,7 +113,7 @@ A custom-themed, 2-page interactive dashboard:
 
 **Page 2 — Deep Dive:** A drill-through page — clicking any state on the map jumps here, automatically filtered to that state, showing its top 5 products, payment split, age group, and seasonal breakdown, with a dynamic breadcrumb title and a back button.
 
-https://github.com/Vipparti-Vinay/customer-behavior-retention-analysis-python-sql-powebi/blob/main/dashboard_overview_page.png
+![Screenshot/Demo of dashboard](https://github.com/Vipparti-Vinay/customer-behavior-retention-analysis-python-sql-powebi/blob/main/dashboard_overview_page.png)
 
 
 
@@ -142,8 +140,6 @@ https://github.com/Vipparti-Vinay/customer-behavior-retention-analysis-python-sq
 ## Author and Contact
 
 **Vipparti Vinay**
-📧 Email: vinayvipparti.in@gmail.com
-💼 LinkedIn: [add your LinkedIn profile link]
-🌐 Portfolio: [add your portfolio link]
+📧 Email: [vinayvipparti.in@gmail.com]
+💼 LinkedIn: [https://www.linkedin.com/in/vipparti-vinay/]
 
-*Originally guided by [Amlan Mohanty's](https://www.youtube.com/@amlanmohanty1) Customer Behavior Data Analyst Portfolio Project tutorial, extended with additional analysis and a custom dashboard redesign.*
