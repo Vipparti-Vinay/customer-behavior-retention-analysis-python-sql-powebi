@@ -115,7 +115,7 @@ A custom-themed, 2-page interactive dashboard:
 
 **Page 2 — Deep Dive:** A drill-through page — clicking any state on the map jumps here, automatically filtered to that state, showing its top 5 products, payment split, age group, and seasonal breakdown, with a dynamic breadcrumb title and a back button.
 
-
+https://github.com/Vipparti-Vinay/customer-behavior-retention-analysis-python-sql-powebi/blob/main/dashboard_overview_page.png
 
 
 
